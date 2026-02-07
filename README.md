@@ -27,21 +27,21 @@
 
 ## About Me
 
-I’m a **Software Engineer** focused on **reliable backend systems**, **API infrastructure**, and **distributed workflows**. I love modernizing legacy services, scaling integrations, and building automation that removes operational toil.
+Iâ€™m a **Software Engineer** focused on **reliable backend systems**, **API infrastructure**, and **distributed workflows**. I love modernizing legacy services, scaling integrations, and building automation that removes operational toil.
 
-> “Simplicity is prerequisite for reliability.”
+> â€œSimplicity is prerequisite for reliability.â€
 
 ---
 
 ## Experience
 
-### Software Engineer — GAP Inc (Jul 2024 – Present)
-- Migrated legacy microservices to **Java 21 + Spring Boot 3.x** and optimized Kafka producers for low‑latency event publishing (99.9% availability).
-- Led zero‑downtime migration from **Apigee to internal API Gateway**, including OAuth2/JWT hardening and traffic shift strategy (eliminated deployment outages).
-- Re‑architected scheduling with **Quartz (distributed)**, tuned SQL and thread pools to reduce high‑latency DB alerts by **50%**.
-- Built a **Caffeine‑based caching layer** to stabilize 3rd‑party token refresh, reducing support tickets by **40%**.
-- Automated **Azure Key Vault TLS/secret rotation** and health‑based auto‑redeploys for compliance.
-- Re‑engineered Celigo integrations with retry + validation, cutting manual troubleshooting by **90%**.
+### Software Engineer â€” GAP Inc (Jul 2024 â€“ Present)
+- Migrated legacy microservices to **Java 21 + Spring Boot 3.x** and optimized Kafka producers for lowâ€‘latency event publishing (99.9% availability).
+- Led zeroâ€‘downtime migration from **Apigee to internal API Gateway**, including OAuth2/JWT hardening and traffic shift strategy (eliminated deployment outages).
+- Reâ€‘architected scheduling with **Quartz (distributed)**, tuned SQL and thread pools to reduce highâ€‘latency DB alerts by **50%**.
+- Built a **Caffeineâ€‘based caching layer** to stabilize 3rdâ€‘party token refresh, reducing support tickets by **40%**.
+- Automated **Azure Key Vault TLS/secret rotation** and healthâ€‘based autoâ€‘redeploys for compliance.
+- Reâ€‘engineered Celigo integrations with retry + validation, cutting manual troubleshooting by **90%**.
 
 ---
 
@@ -81,44 +81,15 @@ I’m a **Software Engineer** focused on **reliable backend systems**, **API inf
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Job Finder Agent** | LLM‑assisted job radar + contact discovery + GitHub Pages deploy. | [Repo](https://github.com/pdk01/job-finder) |
-| **Merchandise Hierarchy Prediction Using LLM** | Kafka‑driven LLM service for taxonomy mapping; 99.9% success with retries. | (Private) |
-| **VersaAI – AI SaaS Platform** | Multi‑modal AI platform with MySQL‑backed context management. | (Private) |
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdk01&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdk01&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdk01&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## Currently Exploring
-
-- Distributed scheduling and resilient workflows
-- LLM‑assisted automation in enterprise systems
-- Performance tuning and caching strategies
-
----
-
-## Achievements
-
-- **Gap Applause Award**: 1st place in internal hackathon (Java/Spring Boot cart API design).
-- **CSR & Volunteering Lead**: chaired cross‑team cultural and community initiatives.
-- **Certifications**: SC‑900, Prompt Engineering (Vanderbilt), Goldman Sachs SWE Virtual Experience.
+| **Job Finder Agent** | LLMâ€‘assisted job radar + contact discovery + GitHub Pages deploy. | [Repo](https://github.com/pdk01/job-finder) |
+| **Merchandise Hierarchy Prediction Using LLM** | Kafkaâ€‘driven LLM service for taxonomy mapping; 99.9% success with retries. | (Private) |
+| **VersaAI â€“ AI SaaS Platform** | Multiâ€‘modal AI platform with MySQLâ€‘backed context management. | (Private) |
 
 ---
 
 ## Open to Work
 
-I’m open to backend / platform / distributed systems roles. If your team needs resilient APIs and high‑throughput systems, let’s connect.
+Iâ€™m open to backend / platform / distributed systems roles. If your team needs resilient APIs and highâ€‘throughput systems, letâ€™s connect.
 
 ---
 
@@ -132,5 +103,5 @@ I’m open to backend / platform / distributed systems roles. If your team needs
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" />
   <br>
-  <i>“Build systems that are boring in production.”</i>
+  <i>â€œBuild systems that are boring in production.â€</i>
 </p>
