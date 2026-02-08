@@ -1,7 +1,7 @@
 <!-- Animated Greeting -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hey, I'm <span style="color:#00BFFF;">Pranav Kaushik</span>
+  Hey, I'm <span style="color:#00BFFF;">Pranav Dutt Kaushik</span>
 </h1>
 
 <h3 align="center">
