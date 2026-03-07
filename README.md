@@ -80,7 +80,7 @@ I am a Software Engineer focused on reliable backend systems, API infrastructure
 |---------|-------------|------|
 | **Job Finder Agent** | LLM-assisted job radar + contact discovery + GitHub Pages deploy. | [Repo](https://github.com/pdk01/job-finder) |
 | **Merchandise Hierarchy Prediction Using LLM** | Kafka-driven LLM service for taxonomy mapping; 99.9% success with retries. | (Private) |
-| **VersaAI - AI SaaS Platform** | Multi-modal AI platform with MySQL-backed context management. | ([Repo](https://github.com/pdk01/VerseAI)) |
+| **VersaAI - AI SaaS Platform** | Multi-modal AI platform with MySQL-backed context management. | [Repo](https://github.com/pdk01/VerseAI) |
 
 ---
 
